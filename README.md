@@ -1,4 +1,4 @@
-#cpp_charES_MX
+# cpp_charES_MX
 
 C/C++ equivalentes en español de caracteres 
 Se diseñó para su uso con Windows (Aplicaciones de símbolo de Sistema o Consola en Windows).
